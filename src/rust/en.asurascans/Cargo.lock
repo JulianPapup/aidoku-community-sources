@@ -43,7 +43,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "asurascans"
+name = "Olympus"
 version = "0.1.0"
 dependencies = [
  "aidoku",
