@@ -1,0 +1,14 @@
+{
+	"info": {
+		"id": "es.zonaolympus",
+		"lang": "es",
+		"name": "zonaolympus",
+		"version": 5,
+		"url": "https://zonaolympus.com"
+	},
+	"listings": [
+		{ "name": "Popular del día" },
+		{ "name": "Nuevos lanzamientos" },
+		{ "name": "Novelas" }
+	]
+}
